@@ -1,0 +1,1 @@
+# WooCommerce-Product-Additional-Image
