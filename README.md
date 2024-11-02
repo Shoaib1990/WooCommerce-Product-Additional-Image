@@ -31,11 +31,10 @@ Navigate to WooCommerce > Products > Add New or edit an existing product to use 
 - The additional image and customized button will now display on the product page.
 
 ## Screenshots
-Product Edit Page: Additional Image and Button Text field in WooCommerce product editor.
-Product Page: Display of the additional image with a customizable "View Image" button.
-
-Customization
-View Image Button Text: Each product can have a unique button label. To customize the button text, edit the product in WooCommerce, and update the View Image Button Text field. If no custom text is entered, the default "View Image" will be used.
+1. **Product Edit Page:** Additional Image and Button Text field in WooCommerce product editor.
+2. **Product Page:** Display of the additional image with a customizable "View Image" button.
+3. **View Image Button Text:** Each product can have a unique button label. To customize the button text, edit the product in WooCommerce, and update the View Image Button Text field
+4. **Default Button Text:** If no custom text is entered, the default "View Image" will be used.
 
 ## Frequently Asked Questions
 Q1: Can I add multiple additional images?
