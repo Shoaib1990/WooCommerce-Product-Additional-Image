@@ -1,0 +1,10 @@
+.additional-product-image img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+
+.additional-image {
+    display: none;
+}

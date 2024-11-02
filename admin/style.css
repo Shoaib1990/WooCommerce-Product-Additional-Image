@@ -1,0 +1,7 @@
+.button#remove_additional_product_image {
+    float: inline-end;
+}
+
+.button#remove_additional_product_image, .button#upload_additional_product_image {
+    margin-top: 10px;
+}
