@@ -2,7 +2,7 @@
 /*
 Plugin Name: Additional Product Image
 Description: Adds an additional image field in the WooCommerce product backend and displays it on the product page.
-Version: 1.0
+Version: 1.1
 Author: Shoaib
 Author URI: https://shoaibkhalid.ca
 */
